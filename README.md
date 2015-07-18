@@ -1,6 +1,6 @@
 ### ESSeparatorInset
 Remove the UITableView separator on the left side of the spacing.
-
+一行代码移除 UITableView 分割线左边的默认的间距
 
 ###How to use:
 
