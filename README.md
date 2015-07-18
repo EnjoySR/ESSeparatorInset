@@ -6,7 +6,7 @@ Remove the UITableView separator on the left side of the spacing.
 
 Drag the name as "ESSeparatorInset" folder to your project, and import the header files.
 Code:
-```
+```objc
     //Set tableView separator inset zero.
     [self setSeparatorInsetZeroWithTableView:self.tableView];
     //You can also do this：
