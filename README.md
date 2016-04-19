@@ -15,4 +15,3 @@ Code:
 
 ```
 ![Screenshot](https://raw.githubusercontent.com/EnjoySR/ESSeparatorInset/master/ScreenShot.png)
-
